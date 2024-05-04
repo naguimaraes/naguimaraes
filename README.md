@@ -16,8 +16,7 @@ I am currently studying Computer Engineering at [Federal University of Rio Grand
 - 🎮 [Video games](https://steamcommunity.com/id/fazomeupaudetrampolim/), mainly strategy or competitive games. Recently, I've been trying some single-player ones.
 
 ## GitHub Statistics
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naguimaraes&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naguimaraes&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naguimaraes&theme=dark) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naguimaraes&theme=dark)
 
 <!-- 
     Commented out for now, as it's not working properly
