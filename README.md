@@ -1,8 +1,6 @@
-# Hello, there! 👋
+# Hello, there! I'm Nathan 👋
 
-## About Me
-
-I'm currently studying Computer Engeneering at [Federal University of Rio Grande do Sul (UFRGS)](http://www.ufrgs.br/ufrgs/inicial) and working as an undergraduate research fellow at the [Computer Networks Group](http://networks.inf.ufrgs.br/?fbclid=IwZXh0bgNhZW0CMTAAAR0mNlclb9TGQ_ZpfvlRPaIl3thQ_-r_8Nk_G6amGHs0hieMJMZMb-IqGrw_aem_Ab7qr0fjRkENtH2TXYXKeNbno-57r95n9lIeO6QUyV0JfyFkoOm-MrxbaratDbziTTBOC6Wj-U200N5El_8aLuQm) here as well.
+I am currently studying Computer Engeneering at [Federal University of Rio Grande do Sul (UFRGS)](http://www.ufrgs.br/ufrgs/inicial) and working as an undergraduate research fellow at the [Computer Networks Group](http://networks.inf.ufrgs.br/?fbclid=IwZXh0bgNhZW0CMTAAAR0mNlclb9TGQ_ZpfvlRPaIl3thQ_-r_8Nk_G6amGHs0hieMJMZMb-IqGrw_aem_Ab7qr0fjRkENtH2TXYXKeNbno-57r95n9lIeO6QUyV0JfyFkoOm-MrxbaratDbziTTBOC6Wj-U200N5El_8aLuQm) here as well.
 
 ## Fields of Interest
 
