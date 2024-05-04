@@ -16,8 +16,13 @@ I am currently studying Computer Engineering at [Federal University of Rio Grand
 - 🎮 [Video games](https://steamcommunity.com/id/fazomeupaudetrampolim/), mainly strategy or competitive games. Recently, I've been trying some single-player ones.
 
 ## GitHub Statistics
-
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naguimaraes&theme=dark)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naguimaraes&theme=dark)
 
-![Profile Viewers](https://komarev.com/ghpvc/?username=naguimaraes&color=red) ![Monthly Commits](https://img.shields.io/github/commit-activity/m/naguimaraes/naguimaraes?label=Commits+This+month&color=red&abbreviated=true) ![Yearly Commits](https://img.shields.io/github/commit-activity/y/naguimaraes/naguimaraes?label=Commits+this+year&color=red)
+<!-- 
+    Commented out for now, as it's not working properly
 
+    ![Years Badge](https://badges.pufler.dev/years/naguimaraes) ![Visits Badge](https://badges.pufler.dev/visits/naguimaraes/naguimaraes) ![Updated Badge](https://badges.pufler.dev/updated/naguimaraes/naguimaraes) ![Commits Badge](https://badges.pufler.dev/commits/yearly/naguimaraes)
+
+    ![Last Stars Display](https://badges.pufler.dev/last-stars/naguimaraes?count=3&padding=15&perRow=3) 
+-->
