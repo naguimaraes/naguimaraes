@@ -6,13 +6,13 @@ I am currently studying Computer Engineering at [Federal University of Rio Grand
 
 ### 📚 Academic
 
-- 📱 Embedded Systems
-- 👨‍💻 Low-level programming (anywhere between C and HDLs)
-- 🕸️ Software Defined Networks (SDNs) and Programmable Data Planes (PDPs)
+- 📱 Embedded Systems,
+- 👨‍💻 Low-level programming (anywhere between C and HDLs),
+- 🕸️ Software Defined Networks (SDNs) and Programmable Data Planes (PDPs).
 
 ### 🏡 Personal
 
-- 🎸 [Music](https://www.last.fm/pt/user/leprann), especially the emo, metalcore, and shoegaze genres
+- 🎸 [Music](https://www.last.fm/pt/user/leprann), especially the emo, metalcore, and shoegaze genres,
 - 🎮 [Video games](https://steamcommunity.com/id/fazomeupaudetrampolim/), mainly strategy or competitive games. Recently, I've been trying some single-player ones.
 
 ## GitHub Statistics
