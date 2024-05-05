@@ -13,7 +13,7 @@ I am currently studying Computer Engineering at [Federal University of Rio Grand
 ### 🏡 Personal:
 
 - 🎸 [Music](https://www.last.fm/pt/user/leprann), especially the emo, metalcore, and shoegaze genres,
-- 🎮 [Video games](https://steamcommunity.com/id/fazomeupaudetrampolim/), mainly strategy or competitive games. Recently, I've been trying some single-player ones.
+- 🎮 [Video games](https://steamcommunity.com/id/fazomeupaudetrampolim/), mainly strategy or competitive games.
 
 ## GitHub Statistics
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naguimaraes&theme=dark) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naguimaraes&theme=dark)
