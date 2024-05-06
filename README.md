@@ -6,7 +6,7 @@ I am currently studying Computer Engineering at [Federal University of Rio Grand
 
 ### Academic 📚:
 
-- 📱 Embedded Systems,
+- 📱 Embedded systems,
 - 👨‍💻 Low-level programming (anywhere between C and HDLs),
 - 🕸️ Software Defined Networks (SDNs) and Programmable Data Planes (PDPs).
 
