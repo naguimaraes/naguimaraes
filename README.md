@@ -16,12 +16,21 @@ I am currently studying Computer Engineering at [Federal University of Rio Grand
 - 🎮 [Video games](https://steamcommunity.com/id/fazomeupaudetrampolim/), mainly strategy or competitive games.
 
 ## GitHub Statistics 📊
+
+<center>
+
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naguimaraes&theme=dark) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naguimaraes&theme=dark)
 
-<!-- 
-    Commented out for now, as it's not working properly
+</center>
 
-    ![Years Badge](https://badges.pufler.dev/years/naguimaraes) ![Visits Badge](https://badges.pufler.dev/visits/naguimaraes/naguimaraes) ![Updated Badge](https://badges.pufler.dev/updated/naguimaraes/naguimaraes) ![Commits Badge](https://badges.pufler.dev/commits/yearly/naguimaraes)
+My last three starred repositories:
 
-    ![Last Stars Display](https://badges.pufler.dev/last-stars/naguimaraes?count=3&padding=15&perRow=3) 
--->
+![Last Stars Display](https://badges.pufler.dev/last-stars/naguimaraes?count=3&padding=15&perRow=3)
+
+Statistics of my profile:
+
+<center>
+
+![Years Badge](https://badges.pufler.dev/years/naguimaraes) ![Visits Badge](https://badges.pufler.dev/visits/naguimaraes/naguimaraes) ![Updated Badge](https://badges.pufler.dev/updated/naguimaraes/naguimaraes) ![Repos Badge](https://badges.pufler.dev/repos/naguimaraes)
+
+</center>
