@@ -26,6 +26,6 @@ I am currently studying Computer Engineering at [Federal University of Rio Grand
 
 </div>
 
-### My last three starred repositories
+### My last three starred repositories 🌟
 
 ![Last Stars Display](https://badges.pufler.dev/last-stars/naguimaraes?count=3&padding=15&perRow=3)
