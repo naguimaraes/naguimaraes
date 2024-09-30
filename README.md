@@ -4,33 +4,28 @@ I am currently studying Computer Engineering at [Federal University of Rio Grand
 
 ## Fields of Interest 🔎
 
-### Academic 📚:
+### Academic 📚
 
-- 📱 Embedded systems,
-- 👨‍💻 Low-level programming (anywhere between C and HDLs),
-- 🕸️ Software Defined Networks (SDNs) and Programmable Data Planes (PDPs).
+- 📱 Embedded systems;
+- 👨‍💻 Low-level programming;
+- 🕸️ Computer Networks.
 
-### Personal 🏡:
+### Personal 🏡
 
-- 🎸 [Music](https://www.last.fm/pt/user/leprann), especially the emo, metalcore, and shoegaze genres,
-- 🎮 [Video games](https://steamcommunity.com/id/fazomeupaudetrampolim/), mainly strategy or competitive games.
+- 🎸 [Music](https://www.last.fm/pt/user/leprann), especially the emo, metalcore, and shoegaze genres;
+
+- 🎮 [Video games](https://steamcommunity.com/id/fazomeupaudetrampolim/), mainly strategy or competitive ones.
 
 ## GitHub Statistics 📊
 
-<center>
+<div align="center">
+  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naguimaraes&theme=dark)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naguimaraes&theme=dark) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naguimaraes&theme=dark)
+![Years Badge](https://badges.pufler.dev/years/naguimaraes) ![Visits Badge](https://badges.pufler.dev/visits/naguimaraes/naguimaraes) ![Updated Badge](https://badges.pufler.dev/updated/naguimaraes/naguimaraes) ![Repos Badge](https://badges.pufler.dev/repos/naguimaraes) ![Commits Badge](https://badges.pufler.dev/commits/monthly/naguimaraes)
 
-</center>
+</div>
 
-My last three starred repositories:
+### My last three starred repositories
 
 ![Last Stars Display](https://badges.pufler.dev/last-stars/naguimaraes?count=3&padding=15&perRow=3)
-
-Statistics of my profile:
-
-<center>
-
-![Years Badge](https://badges.pufler.dev/years/naguimaraes) ![Visits Badge](https://badges.pufler.dev/visits/naguimaraes/naguimaraes) ![Updated Badge](https://badges.pufler.dev/updated/naguimaraes/naguimaraes) ![Repos Badge](https://badges.pufler.dev/repos/naguimaraes)
-
-</center>
