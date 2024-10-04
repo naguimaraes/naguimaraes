@@ -12,9 +12,9 @@ I am currently studying Computer Engineering at [Federal University of Rio Grand
 
 ### Personal 🏡
 
-- 🎸 [Music](https://www.last.fm/pt/user/leprann), especially the emo, metalcore, and shoegaze genres;
+- 🎸 [Music](https://www.last.fm/pt/user/leprann);
 
-- 🎮 [Video games](https://steamcommunity.com/id/fazomeupaudetrampolim/), mainly strategy or competitive ones.
+- 🎮 [Video games](https://steamcommunity.com/id/fazomeupaudetrampolim/).
 
 ## GitHub Statistics 📊
 
