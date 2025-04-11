@@ -1,14 +1,13 @@
 # Hello, there! I'm Nathan 👋
 
-I am currently studying Computer Engineering at [Federal University of Rio Grande do Sul (UFRGS)](http://www.ufrgs.br/ufrgs/inicial) and working there as an undergraduate research fellow at the [Computer Networks Group](http://networks.inf.ufrgs.br/?fbclid=IwZXh0bgNhZW0CMTAAAR0mNlclb9TGQ_ZpfvlRPaIl3thQ_-r_8Nk_G6amGHs0hieMJMZMb-IqGrw_aem_Ab7qr0fjRkENtH2TXYXKeNbno-57r95n9lIeO6QUyV0JfyFkoOm-MrxbaratDbziTTBOC6Wj-U200N5El_8aLuQm) as well.
+I am currently studying Computer Engineering at [Federal University of Rio Grande do Sul (UFRGS)](http://www.ufrgs.br/ufrgs/inicial) and working there as an undergraduate research fellow at the [UFRGS Chi2p Group](https://github.com/projetoChi2p) as well.
 
 ## Fields of Interest 🔎
 
 ### Academic 📚
 
-- 📱 Embedded systems;
-- 👨‍💻 Low-level programming;
-- 🕸️ Computer networks.
+- ⚙️ Reconfigurable Systems;
+- 👨‍💻 Machine Learning.
 
 ### Personal 🏡
 
